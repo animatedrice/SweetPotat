@@ -1,14 +1,13 @@
 # Sweet Potato
 
-![Added items](https://github.com/animatedrice/SweetPotat/assets/15009951/ed115f05-fa8f-40d1-a443-1a8023d89e06)
+![Added items](https://github.com/user-attachments/assets/4e905731-a4f5-44de-8f88-6895cc0604ce)
 
-Brings the delicious Sweet Potat to Stardew Valley! 
-> Plant in Spring for a lovely purple veggie. Takes 8 days to mature.
+Brings the delicious Sweet Potat to Stardew Valley! Replaces Yam.
 
-Adds new items:
-* Sweet Potato Seeds (Available at Pierre's in spring!)
-* Sweet Potato Crop
-* Sweet Potato Pie
+### Requirements
+* SMAPI
+* Content Patcher
 
-> [!TIP]
-> * When you have the Kick the Drip mod installed you are able to tailor KickthePJ shirts with a Sweet Potato Pie!
+### Download
+
+[Download](https://github.com/animatedrice/SweetPotat/releases) 
